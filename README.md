@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Jake 👋
+
+I'm a Junior Web Developer based in Copenhagen Denmark. I've recently completed General Assembly's Software Enginnering Immersive bootcamp, as well as countless hours of Codecademy and personal projects. 
+Here are the technologies i'm familiar with:
+- JavaScript, HTML, CSS
+- React
+- Next.js
+- Three.js (I am a massive Three.js enthusiast!)
+- Vue.js
+- Express.js
+- Node.js
+- Python
+- Django
+- MongoDb and PostgreSQL
+
+Please feel free to check out my work here, or visit my [portfolio site](https://www.jakephillips.eu/).
+
 
 <!--
 **j-o-phillips/j-o-phillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
