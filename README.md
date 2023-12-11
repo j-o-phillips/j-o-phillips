@@ -13,7 +13,7 @@ Here are the technologies i'm familiar with:
 - Django
 - MongoDb and PostgreSQL
 
-Please feel free to check out my work here, or visit my [portfolio site](https://www.jakephillips.eu/).
+Please feel free to check out my work here, or visit my [portfolio](https://www.jakephillips.eu/).
 
 
 <!--
