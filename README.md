@@ -1,6 +1,6 @@
 ### Hi there, I'm Jake 👋
 
-I'm a Software Engineer based in Copenhagen, Denmark. I've recently completed General Assembly's Software Enginnering Immersive bootcamp, as well as countless hours of Codecademy and personal projects. 
+I'm a Software Engineer based in Copenhagen, Denmark. 
 Here are the technologies i'm familiar with:
 - JavaScript, HTML, CSS
 - React
